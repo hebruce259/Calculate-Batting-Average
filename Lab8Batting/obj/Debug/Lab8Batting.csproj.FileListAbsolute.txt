@@ -1,0 +1,6 @@
+c:\users\sonia blake\documents\visual studio 2015\Projects\Lab8Batting\Lab8Batting\bin\Debug\Lab8Batting.exe.config
+c:\users\sonia blake\documents\visual studio 2015\Projects\Lab8Batting\Lab8Batting\bin\Debug\Lab8Batting.exe
+c:\users\sonia blake\documents\visual studio 2015\Projects\Lab8Batting\Lab8Batting\bin\Debug\Lab8Batting.pdb
+c:\users\sonia blake\documents\visual studio 2015\Projects\Lab8Batting\Lab8Batting\obj\Debug\Lab8Batting.exe
+c:\users\sonia blake\documents\visual studio 2015\Projects\Lab8Batting\Lab8Batting\obj\Debug\Lab8Batting.pdb
+C:\Users\Sonia Blake\Documents\Visual Studio 2015\Projects\Lab8Batting\Lab8Batting\obj\Debug\Lab8Batting.csprojResolveAssemblyReference.cache
